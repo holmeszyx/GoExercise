@@ -1,2 +1,1 @@
-# GoExercise
-Exercise for go
+go的练习， 顺便熟悉一下其它知识
